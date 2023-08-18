@@ -68,6 +68,10 @@ const services = [
     title: "Android Developer",
     icon: mobile,
   },
+  {
+    title: "Web Designer",
+    icon: creator ,
+  },
 ];
 
 const technologies = [
