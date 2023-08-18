@@ -4,17 +4,17 @@ Welcome to my 3D portfolio web repository! This project showcases my 3D design a
 
 ## Tools Used  🛠️
 
-- [**React:**](https://legacy.reactjs.org/)
-- [**Tailwind CSS:**](https://tailwindcss.com/)
-- [**Three.js:**](**Three.js:** )
+- [**React**](https://legacy.reactjs.org/)
+- [**Tailwind CSS**](https://tailwindcss.com/)
+- [**ThreeJS**](https://threejs.org/docs/index.html#manual/en/introduction/Creating-a-scene)
 
-- [**Vite:**](https://www.npmjs.com/package/vite)
+- [**Vite**](https://www.npmjs.com/package/vite)
 
-- [**EmailJS:**](https://www.emailjs.com/docs/) 
+- [**EmailJS**](https://www.emailjs.com/docs/) 
 
-- [**Framer Motion:**](https://www.npmjs.com/package/framer-motion)
+- [**Framer Motion**](https://www.npmjs.com/package/framer-motion)
 
-- [**react-vertical-timeline:**](https://www.npmjs.com/package/react-vertical-timeline-component)
+- [**react-vertical-timeline**](https://www.npmjs.com/package/react-vertical-timeline-component)
 
 ## Sections 📚
 
